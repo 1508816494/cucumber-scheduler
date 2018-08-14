@@ -1,0 +1,2 @@
+http\://www.jd.cucumber.com/schema/cucumber-job=com.jd.cucumber.scheduler.spring.config.CucumberJobNamespaceHandler
+
